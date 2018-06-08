@@ -1,0 +1,6 @@
+Project is executed on below web site.
+	- http://admin-demo.nopcommerce.com
+	- UID: admin@yourstore.com
+	- Pass: admin
+	
+	
